@@ -502,4 +502,4 @@ __global__ void reduceUnrolling16(int *g_idata, int *g_odata, unsigned int n)
 ![image](https://github.com/jhansi21005096/PCA-EXP-3-PARALLEL-REDUCTION-USING-UNROLLING-TECHNIQUES-AY-23-24/assets/94458641/7f740d7c-e882-479c-b63e-8e122ceb720d)
 
 ## RESULT:
-Thus the program has been executed by unrolling by 8 and unrolling by 16. It is observed that _________ has executed with less elapsed time than _____________ with blocks_____,______.
+Thus the program has been executed by unrolling by 8 and unrolling by 16. It is observed that 524288 has executed with less elapsed time than 1048576 with blocks 2.71 ms,126.38 ms.
